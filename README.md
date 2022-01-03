@@ -34,10 +34,10 @@ Nice to have you here! Should there be any questions, no matter how minor, pleas
 
 ## ⭐️ Marketing details
 
-- [ ] Logos: https://github.com/code-423n4/2022-01-sandclock/tree/main/brand-assets
-- [ ] Twitter: [Sandclock](https://twitter.com/SandclockOrg)
-- [ ] Discord: [Sandclock's Discord](https://discord.gg/KsGxRspajU)
-- [ ] Website: [https://sandclock.org/](https://sandclock.org/)
+- Logos: https://github.com/code-423n4/2022-01-sandclock/tree/main/brand-assets
+- Twitter: [Sandclock](https://twitter.com/SandclockOrg)
+- Discord: [Sandclock's Discord](https://discord.gg/KsGxRspajU)
+- Website: [https://sandclock.org/](https://sandclock.org/)
 
 ---
 
