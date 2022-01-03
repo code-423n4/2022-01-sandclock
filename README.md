@@ -1,19 +1,6 @@
-## Hello wardens
-Nice to have you here! Should there be any questions, no matter how minor, please do not hesitate to reach out to us.
-
 ![sandclock](brand-assets/Sandclock-Logo-Wordmark.png)
 
-### Contact us ☎️
-
-| Name | Timezone | Discord |
-| ---- | -------- | ------- |
-| Cristiano | UTC | Cristiano#6015 |
-| Gabriel | UTC | gabrielpoca#1685 |
-| Miguel | UTC | naps62#6355 |
-| Milan | UTC+1 | milan#3774 |
-| Ryuhei | UTC+9 | svcrypto#4603 |
-
-## ⭐️ Sandclock contest details
+## ⭐️ Contest details
 
 - $57,000 USDC main award pot
 - $3,000 USDC gas optimization award pot
@@ -22,6 +9,17 @@ Nice to have you here! Should there be any questions, no matter how minor, pleas
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
 - Starts January 6, 2022 00:00 UTC
 - Ends January 12, 2022 23:59 UTC
+
+## 🌞 Hello wardens 🌝
+Nice to have you here! Should there be any questions, no matter how minor, please do not hesitate to reach out to us.
+
+| Name | Timezone | Discord |
+| ---- | -------- | ------- |
+| Cristiano | UTC | Cristiano#6015 |
+| Gabriel | UTC | gabrielpoca#1685 |
+| Miguel | UTC | naps62#6355 |
+| Milan | UTC+1 | milan#3774 |
+| Ryuhei | UTC+9 | svcrypto#4603 |
 
 - [ ] Name of each contract and:
   - [ ] lines of code in each
@@ -34,9 +32,7 @@ Nice to have you here! Should there be any questions, no matter how minor, pleas
 - [ ] Add all of the code to this repo that you want reviewed
 - [ ] Create a PR to this repo with the above changes.
 
----
-
-# ⭐️ Marketing details
+## ⭐️ Marketing details
 
 - [ ] Logo:
 - [ ] Twitter: [Sandclock](https://twitter.com/SandclockOrg)
@@ -46,5 +42,3 @@ Nice to have you here! Should there be any questions, no matter how minor, pleas
 ---
 
 This repo will be made public before the start of the contest. (C4 delete this line when made public)
-
-[ ⭐️ SPONSORS ADD INFO HERE ]
