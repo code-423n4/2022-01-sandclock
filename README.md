@@ -14,11 +14,13 @@
 
 ## Audit Scope
 
-The scope includes the Vault logic implemented in the following repo:
+The scope includes all the contracts, and any relevant interfaces, in the `sandclock` directory of this repo.
+This is a hardhat project with the relevant contracts included, as well as their
+test suite.
 
-https://github.com/sandclock-org/solidity-contracts
+Contracts and interfaces meant for test purposes only can be safely ignored
 
-Only the following contracts, and their respective interfaces, are within scope:
+Here's a list of the included contracts:
 
 | Name             | LOC | External Contracts Called | Libraries |
 | -----            | ----| -------                   | ------    |
@@ -31,10 +33,6 @@ Only the following contracts, and their respective interfaces, are within scope:
 | vault/Depositors | 68  | 1                         | 1         |
 | lib/PercentMath | 63  | 0                         | 0         |
 | lib/ERC165Query | 55 | 1                         | 0         |
-
-The following contracts / directories are *excluded* from the scope:
-
-- `contracts/integrations`
 
 ## Focus Areas
 
