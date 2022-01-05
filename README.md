@@ -85,14 +85,3 @@ expected.
 | Miguel | UTC | naps62#6355 |
 | Milan | UTC+1 | milan#3774 |
 | Ryuhei | UTC+9 | svcrypto#4603 |
-
-## Sandclock Marketing details
-
-- Logos: https://github.com/code-423n4/2022-01-sandclock/tree/main/brand-assets
-- Twitter: [Sandclock](https://twitter.com/SandclockOrg)
-- Discord: [Sandclock's Discord](https://discord.gg/KsGxRspajU)
-- Website: [https://sandclock.org/](https://sandclock.org/)
-
----
-
-This repo will be made public before the start of the contest. (C4 delete this line when made public)
