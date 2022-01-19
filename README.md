@@ -4,7 +4,7 @@
 
 ## Sandclock Contest details
 
-- $60,000 USDC main award pot
+- $54,000 USDC main award pot
 - $0 USDC gas optimization award pot (we have optimizations pipelined)
 - Join [C4 Discord](https://discord.gg/code4rena) to register
 - Submit findings [using the C4 form](https://code4rena.com/contests/2022-01-sandclock-contest/submit)
